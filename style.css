@@ -1,4 +1,20 @@
 body {
     color: white;
     background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgba(238, 3, 3, 0.922);
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(238, 3, 3, 0.922);
+}
+
+section {
+    background: rgba(187, 2, 2, 0.922);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: center;
 }
